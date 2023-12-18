@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Old Fashioned",
+      "sizes": [
+        { "size": "Table", "price": 49.99 },
+        { "size": "Wall", "price": 75.99 }
+       
+      ],
+      "colors": ["Chrome", "Bronze", "Red", "Yellow", "Blue", "Green"]
+    },
+    {
+      "id": "2",
+      "name": "Retro",
+      "sizes": [
+        { "size": "Table", "price": 59.99 },
+        { "size": "Wall", "price": 85.99 }
+        
+        
+      ],
+      "colors": ["Chrome", "Bronze", "Red", "Yellow", "Blue", "Green"]
+    },
+  
+    {
+      "id": "3",
+      "name": "Contemporary",
+      "sizes": [
+        { "size": "Table", "price": 69.99 },
+        { "size": "Wall", "price": 95.99 }
+        
+      ],
+      "colors": ["Chrome", "Bronze", "Red", "Yellow", "Blue", "Green"]
+    }
+    
+  ]
+  
+    
+    
